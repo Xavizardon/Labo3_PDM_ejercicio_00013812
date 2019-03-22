@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Labo3Intents</string>
+    <string name="hint_username">Type your username</string>
+    <string name="text_btn_send">Enviar</string>
+    <string name="hint_password">Type your password</string>
+    <string name="hint_email">Type your email</string>
+    <string name="hint_gender">Gender: F, M or NB</string>
+</resources>
